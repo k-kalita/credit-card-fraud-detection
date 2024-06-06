@@ -1,6 +1,14 @@
 # Credit Card Fraud Detection
-
+<table>
+<tr>
+<td>
+<img src="https://www.shutterstock.com/image-vector/goblins-pot-goldvector-illustration-simple-260nw-1756871615.jpg" alt="Image" width="400"/>
+</td>
+<td>
 This project aims to analyse and compare the performance of different machine learning classifiers in detecting credit card fraud. The dataset used to train and test the models in this project is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
+</td>
+</tr>
+</table>
 
 ## Evaluation Metrics
 
