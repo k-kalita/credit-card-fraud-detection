@@ -4,9 +4,10 @@ This project aims to analyse and compare the performance of different machine le
 
 ## Evaluation Metrics
 
-Considering the nature of the classification problem as well as the large class imbalance in the dataset, the project proposes a custom evaluation metric which heavily penalizes false negatives. 
+Considering the nature of the classification problem as well as the large class imbalance in the dataset, the project proposes a custom evaluation metric which heavily penalizes false negatives.
 
 The rationale behind this approach is the assumption that the cost of missing a fraudulent transaction is much higher than the cost of flagging a legitimate transaction for review. Furthermore, due to the miniscule size of the share of fraudulent transactions it is generally unavoidable for any high-recall model to also have a notably large number of false positives.
+
 
 ## Tested Models
 
